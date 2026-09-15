@@ -1,1 +1,0 @@
-Upload index.html, manifest.webmanifest, sw.js, and the icons folder together to the root of your GitHub Pages repository. Data saves automatically in local browser storage. Use Backup periodically.
